@@ -90,3 +90,8 @@ li {
   height: 300px;
   justify-items: center;
 }
+ul{
+  display: flex;
+  justify-content: space-between;
+}
+
